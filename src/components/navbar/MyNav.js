@@ -39,6 +39,7 @@ export default function MyNav() {
             <h5
               id="navhead"
               style={{
+                
                 marginLeft: "21px",
                 paddingTop: "6px",
                 color: "#fbd9ad",
